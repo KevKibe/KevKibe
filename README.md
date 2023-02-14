@@ -1,17 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4rL0k8t2mSmWbzO8fl/giphy.gif" width="100"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/kevinkibe/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://medium.com/@keviinkibe">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
-  <a href="https://twitter.com/KevinKibe15">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+
 
 <img src="https://komarev.com/ghpvc/?KevKibe=your-github-username&style=flat-square&color=blue" alt=""/>
 
@@ -31,6 +21,24 @@
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
 - :mailbox:How to reach me: keviinkibe@gmail.com
+
+- Click the links below to know more about what I do.
+
+
+ <div id="badges" align="left">
+  <a href="https://www.linkedin.com/in/kevinkibe/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@keviinkibe">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+  <a href="https://twitter.com/KevinKibe15">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div> 
+
+<br>  
+</br>
 
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
