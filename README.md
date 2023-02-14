@@ -6,8 +6,9 @@
 <img src="https://komarev.com/ghpvc/?KevKibe=your-github-username&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  Hey, what's up! Thanks for dropping by my GitHub profile, grab a seat and let's dive into my world of coding.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hey, what's up! Thanks for dropping by my GitHub profile, grab a seat and let's dive into my world of coding.
+  
 </h1>
 
 <div align="center">
