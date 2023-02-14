@@ -16,7 +16,7 @@
 <img src="https://komarev.com/ghpvc/?KevKibe=your-github-username&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  Hey there
+  Hey, what's up! Thanks for dropping by my GitHub profile, grab a seat and let's dive into my world of coding.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -24,9 +24,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- :telescope: I’m working as a Data Scientist and Machine Learning Engineer and contributing to solving problems through data.
+- :telescope: I'm a data scientist and machine learning engineer passionate about using data to solve real-world problems.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: You'll usually find me working on exciting data projects or brushing up my technical content writing skills.
 
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
