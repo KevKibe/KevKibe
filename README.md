@@ -1,8 +1,3 @@
-<div id="header" align="center">
-  <img src=https://media2.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif?cid=ecf05e47fqgcop4u72cab9ie9q0asotojckkcl0ake9lynnr&rid=giphy.gif&ct=gwidth="80" height= '200'/>
-</div>
-
-
 <img src="https://komarev.com/ghpvc/?KevKibe=your-github-username&style=flat-square&color=blue" alt=""/>
 
 <h1>
