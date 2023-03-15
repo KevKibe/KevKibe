@@ -14,7 +14,7 @@
 
 - :seedling: You'll usually find me working on exciting data projects or brushing up my technical content writing skills.
 
-- :zap: In my free time, I solve problems on HackerRank and read tech articles.
+- :zap: In my free time, I write articles on Medium and Analytics Vidhya.
 
 - :mailbox:How to reach me: keviinkibe@gmail.com
 
