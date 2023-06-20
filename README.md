@@ -6,13 +6,10 @@
   
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 - :telescope: I'm a data scientist and machine learning engineer passionate about using data to solve real-world problems.
 
-- :seedling: You'll usually find me working on exciting data projects or brushing up my technical content writing skills.
+- :seedling: You'll usually find me working on exciting machine learning projects or brushing up on my MLOps skills.
 
 - :zap: In my free time, I write articles on Medium and Analytics Vidhya.
 
