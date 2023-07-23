@@ -11,7 +11,7 @@
 
 - :seedling: You'll usually find me working on exciting machine learning projects or brushing up on my MLOps skills.
 
-- :zap: In my free time, I write articles on Medium and Analytics Vidhya.
+- :zap: I'm currently open for roles in Data Science, Machine Learning, NLP and Computer Vision.
 
 - :mailbox:How to reach me: keviinkibe@gmail.com
 
