@@ -15,7 +15,7 @@
 
 - :mailbox:How to reach me: keviinkibe@gmail.com
 
-- Click the links below to know more about what I do.
+
 
 
  <div id="badges" align="left">
