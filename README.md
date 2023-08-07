@@ -33,4 +33,27 @@
 <br>  
 </br>
 
+# Projects Overview
+## Machine Learning Projects
+- [TimeSeries Prediction on climate data using Deep-Learning](https://github.com/KevKibe/TimeSeries-Prediction-on-climate-data-using-Deep-Learning)
+- [Data Professions Salary Evaluation and Estimation Project](https://github.com/KevKibe/Data-Professions-Salary-Evaluation-and-Estimation-Project)
+- [Predicting Customer Retention for British Airways](https://github.com/KevKibe/Predicting-Customer-Retention-for-British-Airways)
+- [Hospital Patient Length of Stay Prediction](https://github.com/KevKibe/Hospital-Patient-Length-of-Stay-Prediction)
+- [Determining Optimal Target Market For a VideoGame Company using ML ](https://github.com/KevKibe/Determining-Target-Market-For-a-VideoGame-Company-using-ML)
+- [Credit Card Users Churn Prediction](https://github.com/KevKibe/Credit-Card-Users-Churn-Prediction)
 
+## Natural Language Processing
+- [Chat based Interactions with Swahili Audio and Videos in English](https://github.com/KevKibe/Chat-based-Interactions-with-Swahili-Audio-and-Videos)
+- [Medium Article Chatbot](https://github.com/KevKibe/Medium-Article-Chatbot)
+- [Restaurant Review Sentiment Analysis and AI Recommendation](https://github.com/kevkibe/restaurant_review_sentiment_analysis_and_ai_recommendation)
+- [Document Interaction using OpenAI and Pinecone](https://github.com/KevKibe/Document-Interaction-using-OpenAI-and-Pinecone)
+- [Predicting Diagnostic and Corrective Actions of Faulty PLC Devices
+](https://github.com/KevKibe/PLC-Device-Diagnostic-and-Corrective-Action-Prediction)
+- [Topic Modelling using LDA](https://github.com/KevKibe/Topic-Modelling-using-LDA)
+
+## Computer Vision
+- [GazeDirection using Mediapipe](https://github.com/KevKibe/GazeDirection-using-Mediapipe)
+- [Gesture Recognition using Mediapipe](https://github.com/KevKibe/Gesture-Recognition-using-Mediapipe)
+- [Plant Disease Image Classification using Pytorch](https://github.com/KevKibe/Plant-Disease-Image-Classification-using-Pytorch)
+- [High Performance Image Generation through XLA Compilation using Stable Diffusion in KerasCV](https://github.com/KevKibe/High-Performance-Image-Generation-using-Stable-Diffusion-in-KerasCV)
+- [Semantic Image Segmentation using Tensorflow Keras ](https://github.com/KevKibe/Semantic-Image-Segmentation-using-Tensorflow-Keras)
