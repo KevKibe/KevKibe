@@ -41,7 +41,8 @@
 - [Predicting Customer Retention for British Airways](https://github.com/KevKibe/Predicting-Customer-Retention-for-British-Airways)
 - [Hospital Patient Length of Stay Prediction](https://github.com/KevKibe/Hospital-Patient-Length-of-Stay-Prediction)
 - [Determining Optimal Target Market For a VideoGame Company using ML ](https://github.com/KevKibe/Determining-Target-Market-For-a-VideoGame-Company-using-ML)
-- [Credit Card Users Churn Prediction](https://github.com/KevKibe/Credit-Card-Users-Churn-Prediction)
+- [Fraud-Detection-for-Vehicle-Insurance-Claims](https://github.com/KevKibe/Fraud-Detection-for-Vehicle-Insurance-Claims)
+
 
 ## Natural Language Processing
 - [Chat based Interactions with Swahili Audio and Videos in English](https://github.com/KevKibe/Chat-based-Interactions-with-Swahili-Audio-and-Videos)
