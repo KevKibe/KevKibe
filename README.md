@@ -37,6 +37,7 @@
 ## Machine Learning Projects
 - [TimeSeries Prediction on climate data using Deep-Learning](https://github.com/KevKibe/TimeSeries-Prediction-on-climate-data-using-Deep-Learning)
 - [Data Professions Salary Evaluation and Estimation Project](https://github.com/KevKibe/Data-Professions-Salary-Evaluation-and-Estimation-Project)
+- [Time Series Prediction on Inflation Rate in Kenya](https://github.com/KevKibe/Inflation_in_Kenya_TimeSeries_Prediction)
 - [Predicting Customer Retention for British Airways](https://github.com/KevKibe/Predicting-Customer-Retention-for-British-Airways)
 - [Hospital Patient Length of Stay Prediction](https://github.com/KevKibe/Hospital-Patient-Length-of-Stay-Prediction)
 - [Determining Optimal Target Market For a VideoGame Company using ML ](https://github.com/KevKibe/Determining-Target-Market-For-a-VideoGame-Company-using-ML)
