@@ -45,9 +45,10 @@
 
 
 ## Natural Language Processing
-- [Chat based Interactions with Swahili Audio and Videos in English](https://github.com/KevKibe/Chat-based-Interactions-with-Swahili-Audio-and-Videos)
+
 - [Medium Article Chatbot](https://github.com/KevKibe/Medium-Article-Chatbot)
 - [Restaurant Review Sentiment Analysis and AI Recommendation](https://github.com/kevkibe/restaurant_review_sentiment_analysis_and_ai_recommendation)
+- [Chat based Interactions with Swahili Audio and Videos in English](https://github.com/KevKibe/Chat-based-Interactions-with-Swahili-Audio-and-Videos)
 - [Document Interaction using OpenAI and Pinecone](https://github.com/KevKibe/Document-Interaction-using-OpenAI-and-Pinecone)
 - [Predicting Diagnostic and Corrective Actions of Faulty PLC Devices
 ](https://github.com/KevKibe/PLC-Device-Diagnostic-and-Corrective-Action-Prediction)
