@@ -47,6 +47,7 @@
 ## Natural Language Processing
 
 - [Medium Article Chatbot](https://github.com/KevKibe/Medium-Article-Chatbot)
+- [YouTube-Comments-Insights-and-Analytics](https://github.com/KevKibe/YouTube-Comments-Insights-and-Analytics)
 - [Restaurant Review Sentiment Analysis and AI Recommendation](https://github.com/kevkibe/restaurant_review_sentiment_analysis_and_ai_recommendation)
 - [Chat based Interactions with Swahili Audio and Videos in English](https://github.com/KevKibe/Chat-based-Interactions-with-Swahili-Audio-and-Videos)
 - [Document Interaction using OpenAI and Pinecone](https://github.com/KevKibe/Document-Interaction-using-OpenAI-and-Pinecone)
