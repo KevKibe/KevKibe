@@ -2,16 +2,16 @@
 
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Hey, what's up! Thanks for dropping by my GitHub profile, grab a seat and let's dive into my world of coding.
+  Hey, what's up! Thanks for dropping by my GitHub profile.
   
 </h1>
 
 
-- :telescope: I'm a data scientist and machine learning engineer passionate about using data to solve real-world problems.
+- :telescope: I'm a machine learning engineer passionate about using data to solve real-world problems.
 
 - :seedling: You'll usually find me working on exciting machine learning projects or brushing up on my MLOps skills.
 
-- :zap: I'm currently open for roles in Data Science, Machine Learning, NLP and Computer Vision.
+- :zap: I'm currently open for roles in Machine Learning, NLP and Computer Vision.
 
 - :mailbox:How to reach me: keviinkibe@gmail.com
 
