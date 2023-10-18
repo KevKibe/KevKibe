@@ -50,6 +50,7 @@
 - [YouTube-Comments-Insights-and-Analytics](https://github.com/KevKibe/YouTube-Comments-Insights-and-Analytics)
 - [Restaurant Review Sentiment Analysis and AI Recommendation](https://github.com/kevkibe/restaurant_review_sentiment_analysis_and_ai_recommendation)
 - [Finetuning-Llama2-with-QLoRA](https://github.com/KevKibe/Finetuning-Llama2-with-QLoRA)
+- [Analyzing Mpesa Statements using Langchain Pandas Agent](https://github.com/KevKibe/Analyzing-Mpesa-Statements-using-Langchain-Pandas-Agent)
 - [Chat based Interactions with Swahili Audio and Videos in English](https://github.com/KevKibe/Chat-based-Interactions-with-Swahili-Audio-and-Videos)
 - [Document Interaction using OpenAI and Pinecone](https://github.com/KevKibe/Document-Interaction-using-OpenAI-and-Pinecone)
 - [Predicting Diagnostic and Corrective Actions of Faulty PLC Devices
