@@ -45,7 +45,7 @@
 
 
 ## Natural Language Processing
-
+- [Finetuning Whisper Model using LoRA on Swahili Audio Data](https://github.com/KevKibe/Finetuning-WhisperSmall-LoRA-Swahili)
 - [Medium Article Chatbot](https://github.com/KevKibe/Medium-Article-Chatbot)
 - [YouTube-Comments-Insights-and-Analytics](https://github.com/KevKibe/YouTube-Comments-Insights-and-Analytics)
 - [Restaurant Review Sentiment Analysis and AI Recommendation](https://github.com/kevkibe/restaurant_review_sentiment_analysis_and_ai_recommendation)
