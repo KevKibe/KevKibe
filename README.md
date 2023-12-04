@@ -46,16 +46,15 @@
 
 ## Natural Language Processing
 - [Finetuning Whisper Model using LoRA on Swahili Audio Data](https://github.com/KevKibe/Finetuning-WhisperSmall-LoRA-Swahili)
+- [RealTime-Voice-Translation-using-Whisper](https://github.com/KevKibe/RealTime-Voice-Translation-using-Whisper)
 - [Medium Article Chatbot](https://github.com/KevKibe/Medium-Article-Chatbot)
-- [YouTube-Comments-Insights-and-Analytics](https://github.com/KevKibe/YouTube-Comments-Insights-and-Analytics)
-- [Restaurant Review Sentiment Analysis and AI Recommendation](https://github.com/kevkibe/restaurant_review_sentiment_analysis_and_ai_recommendation)
+- [YouTube-Comments-Insights-and-Analytics using AI](https://github.com/KevKibe/YouTube-Comments-Insights-and-Analytics)
 - [Finetuning-Llama2-with-QLoRA](https://github.com/KevKibe/Finetuning-Llama2-with-QLoRA)
 - [Analyzing Mpesa Statements using Langchain Pandas Agent](https://github.com/KevKibe/Analyzing-Mpesa-Statements-using-Langchain-Pandas-Agent)
+- [Restaurant Review Sentiment Analysis and AI Recommendation](https://github.com/kevkibe/restaurant_review_sentiment_analysis_and_ai_recommendation)
 - [Chat based Interactions with Swahili Audio and Videos in English](https://github.com/KevKibe/Chat-based-Interactions-with-Swahili-Audio-and-Videos)
-- [Document Interaction using OpenAI and Pinecone](https://github.com/KevKibe/Document-Interaction-using-OpenAI-and-Pinecone)
 - [Predicting Diagnostic and Corrective Actions of Faulty PLC Devices
 ](https://github.com/KevKibe/PLC-Device-Diagnostic-and-Corrective-Action-Prediction)
-- [Topic Modelling using LDA](https://github.com/KevKibe/Topic-Modelling-using-LDA)
 
 ## Computer Vision
 - [GazeDirection using Mediapipe](https://github.com/KevKibe/GazeDirection-using-Mediapipe)
