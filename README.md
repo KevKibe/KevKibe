@@ -59,6 +59,8 @@
 ## Computer Vision
 - [GazeDirection using Mediapipe](https://github.com/KevKibe/GazeDirection-using-Mediapipe)
 - [Gesture Recognition using Mediapipe](https://github.com/KevKibe/Gesture-Recognition-using-Mediapipe)
-- [Plant Disease Image Classification using Pytorch](https://github.com/KevKibe/Plant-Disease-Image-Classification-using-Pytorch)
 - [High Performance Image Generation through XLA Compilation using Stable Diffusion in KerasCV](https://github.com/KevKibe/High-Performance-Image-Generation-using-Stable-Diffusion-in-KerasCV)
 - [Semantic Image Segmentation using Tensorflow Keras ](https://github.com/KevKibe/Semantic-Image-Segmentation-using-Tensorflow-Keras)
+
+## MLOps Pipelines
+- [Plant-Disease-Image-Classification-using-Pytorch-MLOPs-Pipeline](https://github.com/KevKibe/Plant-Disease-Image-Classification-using-Pytorch-MLOPs-Pipeline)
