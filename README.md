@@ -32,34 +32,3 @@
 <br>  
 </br>
 
-# Projects Overview
-## Machine Learning Projects
-- [TimeSeries Prediction on climate data using Deep-Learning](https://github.com/KevKibe/TimeSeries-Prediction-on-climate-data-using-Deep-Learning)
-- [Data Professions Salary Evaluation and Estimation Project](https://github.com/KevKibe/Data-Professions-Salary-Evaluation-and-Estimation-Project)
-- [Time Series Prediction on Inflation Rate in Kenya](https://github.com/KevKibe/Inflation_in_Kenya_TimeSeries_Prediction)
-- [Predicting Customer Retention for British Airways](https://github.com/KevKibe/Predicting-Customer-Retention-for-British-Airways)
-- [Hospital Patient Length of Stay Prediction](https://github.com/KevKibe/Hospital-Patient-Length-of-Stay-Prediction)
-- [Determining Optimal Target Market For a VideoGame Company using ML ](https://github.com/KevKibe/Determining-Target-Market-For-a-VideoGame-Company-using-ML)
-- [Fraud-Detection-for-Vehicle-Insurance-Claims](https://github.com/KevKibe/Fraud-Detection-for-Vehicle-Insurance-Claims)
-
-
-## Natural Language Processing
-- [Finetuning Whisper Model using LoRA on Swahili Audio Data](https://github.com/KevKibe/Finetuning-WhisperSmall-LoRA-Swahili)
-- [RealTime-Voice-Translation-using-Whisper](https://github.com/KevKibe/RealTime-Voice-Translation-using-Whisper)
-- [Medium Article Chatbot](https://github.com/KevKibe/Medium-Article-Chatbot)
-- [YouTube-Comments-Insights-and-Analytics using AI](https://github.com/KevKibe/YouTube-Comments-Insights-and-Analytics)
-- [Finetuning-Llama2-with-QLoRA](https://github.com/KevKibe/Finetuning-Llama2-with-QLoRA)
-- [Analyzing Mpesa Statements using Langchain Pandas Agent](https://github.com/KevKibe/Analyzing-Mpesa-Statements-using-Langchain-Pandas-Agent)
-- [Restaurant Review Sentiment Analysis and AI Recommendation](https://github.com/kevkibe/restaurant_review_sentiment_analysis_and_ai_recommendation)
-- [Chat based Interactions with Swahili Audio and Videos in English](https://github.com/KevKibe/Chat-based-Interactions-with-Swahili-Audio-and-Videos)
-- [Predicting Diagnostic and Corrective Actions of Faulty PLC Devices
-](https://github.com/KevKibe/PLC-Device-Diagnostic-and-Corrective-Action-Prediction)
-
-## Computer Vision
-- [GazeDirection using Mediapipe](https://github.com/KevKibe/GazeDirection-using-Mediapipe)
-- [Gesture Recognition using Mediapipe](https://github.com/KevKibe/Gesture-Recognition-using-Mediapipe)
-- [High Performance Image Generation through XLA Compilation using Stable Diffusion in KerasCV](https://github.com/KevKibe/High-Performance-Image-Generation-using-Stable-Diffusion-in-KerasCV)
-- [Semantic Image Segmentation using Tensorflow Keras ](https://github.com/KevKibe/Semantic-Image-Segmentation-using-Tensorflow-Keras)
-
-## MLOps Pipelines
-- [Plant-Disease-Image-Classification-using-Pytorch-MLOPs-Pipeline](https://github.com/KevKibe/Plant-Disease-Image-Classification-using-Pytorch-MLOPs-Pipeline)
