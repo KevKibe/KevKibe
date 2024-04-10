@@ -7,10 +7,9 @@
 </h1>
 
 
-- :telescope: I'm a machine learning engineer passionate about using data to solve real-world problems.
-
-- :seedling: You'll usually find me working on exciting machine learning projects or brushing up on my MLOps skills.
-
+- 🤖: I'm a machine learning engineer.
+- 🛳️: I deploy my models to production so MLOps engineer as well.
+- :rocket: I'm building [this](https://github.com/KevKibe/African-Whisper) on the side so that I can understand anyone in the world in their language, eventually.
 
 - :mailbox:How to reach me: keviinkibe@gmail.com
 
@@ -25,7 +24,7 @@
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
   <a href="https://twitter.com/KevinKibe15">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/twitter/follow/KevinKibe15?style=social" alt="Twitter"/>
   </a>
 </div> 
 
