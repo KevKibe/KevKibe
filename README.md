@@ -9,7 +9,7 @@
 
 - 🤖: I'm a machine learning engineer.
 - 🛳️: I deploy my models to production so MLOps engineer as well.
-- :rocket: I'm building [this](https://github.com/KevKibe/African-Whisper) on the side so that I can understand anyone in the world in their language, eventually.
+- :rocket: I'm building [this](https://github.com/KevKibe/African-Whisper) on the side so that we can understand anyone in the world in their language, eventually.
 
 - :mailbox:How to reach me: keviinkibe@gmail.com
 
