@@ -8,7 +8,7 @@
 
 
 - 🤖: I'm a machine learning engineer.
-- 🛳️: I deploy my models to production so MLOps engineer as well.
+- 🛳️: I design, build and deploy machine learning pipelines to production to solve business problems.
 
 - :mailbox:How to reach me: keviinkibe@gmail.com
 
